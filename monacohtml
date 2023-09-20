@@ -52,7 +52,7 @@
 				base: 'vs-dark',
 				inherit: true,
 				colors: {
-					"editor.background": '#191919',//ur background color
+					"editor.background": '#1E1E1E',//ur background color
 				},
 				rules: [{
 						token: 'global',
